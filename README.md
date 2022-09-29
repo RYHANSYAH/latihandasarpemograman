@@ -1,1 +1,5 @@
-# latihandasarpemograman
+# latihan-dasar-pemograman
+NAMA  : RAYHANSYAH
+NIM   : 20220040283
+KELAS : TI22A
+PRODI : TEKNIK INFORMATIKA
